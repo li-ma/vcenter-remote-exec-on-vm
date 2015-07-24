@@ -1,7 +1,9 @@
 # remote-exec-on-vm
 Remotely execute a command on a VM by triggering this command from the vCenter.
 
-Usage:
+Usage:<br/>
+Run a command on a VM when that target VM is unreachable because of network isolation. 
+<br/>->The work around this is to ask vCenter to run the command instead of directly trying to run command on that target VM
 
 
 Get 2 external jars:
