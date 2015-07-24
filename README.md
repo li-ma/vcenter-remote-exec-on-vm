@@ -7,6 +7,7 @@ Usage:
 Get 2 external jars:
 * dom4j-1.6.1.jar
 * vijava55b20130927.jar
+<br/>
 => download the zip file [here](http://sourceforge.net/projects/vijava/?source=typ_redirect) which contains those 2 jars.
 
 Export the Java class as a runnable jar file.
